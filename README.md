@@ -2,6 +2,8 @@
 
 ![](https://raw.githubusercontent.com/175B005/weekreport3/master/dorgon.png)
 
+↓動画リンク１
+
 [![](https://raw.githubusercontent.com/175B005/weekreport3/master/dragonbone_direction.png)](https://www.youtube.com/watch?v=bE7fxTH98r0)
 - いい点  
     - 無料  
