@@ -34,6 +34,8 @@
     1. フレーム間は自動で補正して、滑らかに動いてくれます。  
     1. プロジェクトをsaveして、あとは必要なファイルへの書き出し。
 
+- [Exportのunity用参考（後で、自分で作るかも。。）](https://www.youtube.com/watch?v=O2fTwwisInc)
+
 - [Exportの仕方](https://www.youtube.com/watch?v=NoDR7iCnExw)参考までに  
 後で書く予定です。
 
