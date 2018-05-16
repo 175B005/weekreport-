@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/175B005/weekreport3/master/dorgon.png)
 
-[今回紹介動画]()
+[![](https://raw.githubusercontent.com/175B005/weekreport3/master/duki_youtube_5_16.jpg)](https://youtu.be/0lLHwy9VGqc)
 - いい点  
     - 無料  
     - プロ用で多く使っている  
@@ -31,5 +31,6 @@
     1. アニメーターにいって、フレーム単位で動かしていく。  
     1. フレーム間は自動で補正して、滑らかに動いてくれます。  
     1. プロジェクトをsaveして、あとは必要なファイルへの書き出し。
-    
+
+
 [前](https://github.com/175B005/weekreport2) | [次](https://github.com/175B005/weekreport4)
