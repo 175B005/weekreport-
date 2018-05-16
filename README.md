@@ -32,5 +32,7 @@
     1. フレーム間は自動で補正して、滑らかに動いてくれます。  
     1. プロジェクトをsaveして、あとは必要なファイルへの書き出し。
 
+- [Exportの仕方](https://www.youtube.com/watch?v=NoDR7iCnExw)参考までに  
+後で書く予定です。
 
 [前](https://github.com/175B005/weekreport2) | [次](https://github.com/175B005/weekreport4)
