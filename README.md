@@ -2,6 +2,7 @@
 
 ![](https://raw.githubusercontent.com/175B005/weekreport3/master/dorgon.png)
 
+[今回紹介動画]()
 - いい点  
     - 無料  
     - プロ用で多く使っている  
